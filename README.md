@@ -36,7 +36,7 @@ To modify or expand the HUD:
 3. Update emote list in `ShowEmotePicker()` if needed
 4. Save and reload the script
 
-## 📸 Demo (Optional)
+## 📸 HUD Display
 <img width="190" height="961" alt="image" src="https://github.com/user-attachments/assets/15191d2d-adbe-4505-b651-7b7f7ae2bcc8" />
 
 
